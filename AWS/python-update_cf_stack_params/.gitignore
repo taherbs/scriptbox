@@ -1,0 +1,5 @@
+# ignore any Mac-related files
+*DS_Store
+
+#Ignore virtual env
+env
